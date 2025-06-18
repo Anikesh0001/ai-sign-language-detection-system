@@ -1,1 +1,0 @@
-# ai-sign-language-detection-system
